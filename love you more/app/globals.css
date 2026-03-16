@@ -1,0 +1,6 @@
+/* Empty CSS file to override shared template */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
